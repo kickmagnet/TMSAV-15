@@ -80,9 +80,24 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li><a href="http://www.texasmediasystems.com/rentals" title="Texas Media Systems rentals">Rentals</a></li>
 <li class="disappear"><a href="http://www.texasmediasystems.com/contact" title=" Contact Texas Media Systems" class="disappear">Contact</a></li>
 </ul>
-</nav>
 <div class="mobile-nav">
+	<ul id="menu">
+<li><a href="http://www.texasmediasystems.com/about" title="About Texas Media Systems">About Us</a></li>
+<li><a href="http://www.texasmediasystems.com/contact" title="Contact Texas Media Systems">Contact</a></li>
+<li><a href="http://www.texasmediasystems.com/news.php" title="Texas Media Systems News">News</a></li>
+<li><a href="http://www.texasmediasystems.com/nle.php" title="Non-Linear Editing">NLE</a></li>
+<li><a href="http://www.texasmediasystems.com/video.php" title="TMS Pro Video">Pro Video</a></li>
+<li><a href="http://www.texasmediasystems.com/audio.php" title="TMS Pro Audio">Pro Audio</a></li>
+<li><a href="http://www.texasmediasystems.com/pres.php" title="TMS Presentation">Presentation</a></li>
+<li><a href="http://www.texasmediasystems.com/line-card" title="Line Card">Line Card</a></li>
+<li><a href="rentals" title="TMS Rental Equipment">Rentals</a></li>
+<li><a href="http://www.texasmediasystems.com/jobs.php" title="TMS Jobs">Jobs</a></li>
+<li><a href="http://www.texasmediasystems.com/download.php" title="Downloads">Downloads</a></li>
+<li><a href="http://www.texasmediasystems.com/spanish.php" title="Texas Media Systems">Espa&ntilde;ol</a></li>
+<li><a href="http://shop.texasmediasystems.com/Privacy-Policy_ep_38-1.html" title="TMS Privacy Policy">Privacy Policy</a></li>
+</ul>
 </div>
+</nav>
 </div>
 </div>
 <div id="container">
